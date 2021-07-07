@@ -1,7 +1,7 @@
 # Maintainer: Jonas Strassel <info@jonas-strassel.de>
 pkgname=ttf-material-design-icons-webfont
 pkgver=5.8.55
-pkgrel=2
+pkgrel=3
 pkgdesc="Material Design Icons Web Font"
 arch=('any')
 url='https://materialdesignicons.com'
